@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Library of Lament.iml" filepath="$PROJECT_DIR$/Library of Lament.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lament.iml" filepath="$PROJECT_DIR$/Lament.iml" />
     </modules>
   </component>
 </project>

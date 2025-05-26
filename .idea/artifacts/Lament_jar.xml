@@ -1,11 +1,11 @@
 <component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="Library of Lament:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/Library_of_Lament_jar</output-path>
+  <artifact type="jar" build-on-make="true" name="Lament:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Lament_jar</output-path>
     <root id="archive" name="Library of Lament.jar">
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
       </element>
-      <element id="module-output" name="Library of Lament" />
+      <element id="module-output" name="Lament" />
       <element id="extracted-dir" path="$PROJECT_DIR$/lib/obj-0.4.0.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/lib/jSerialComm-2.11.0.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/lib/jsvg-1.7.0.jar" path-in-jar="/" />

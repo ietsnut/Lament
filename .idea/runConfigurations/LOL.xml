@@ -1,7 +1,7 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="LOL" type="Application" factoryName="Application">
-    <option name="MAIN_CLASS_NAME" value="LibraryOfLament" />
-    <module name="Library of Lament" />
+    <option name="MAIN_CLASS_NAME" value="Lament" />
+    <module name="Lament" />
     <method v="2">
       <option name="Make" enabled="true" />
     </method>

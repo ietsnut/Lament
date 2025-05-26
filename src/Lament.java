@@ -1,6 +1,6 @@
 import engine.Manager;
 
-class LibraryOfLament {
+class Lament {
     public static void main(String[] args) {
         Manager.run();
     }

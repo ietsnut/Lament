@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jpackage" name="Lament">
+    <output-path>$PROJECT_DIR$/out/artifacts/Lament</output-path>
+    <root id="root">
+      <element id="archive" name="Lament.jar">
+        <element id="module-output" name="Library of Lament" />
+      </element>
+    </root>
+  </artifact>
+</component>
